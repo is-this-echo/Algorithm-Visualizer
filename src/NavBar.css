@@ -1,0 +1,19 @@
+.nav-bar{
+    background-color:yellowgreen;
+    height: 45px;
+    width: 100%;
+    display: flex;
+    text-decoration: none;
+    justify-content: flex-start;
+}
+
+.nav-link{
+    font-size: 20px;
+    margin-left: 350px;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 600;
+    padding-top: 9px;
+    letter-spacing: 1px;
+    /* background-color: royalblue; */
+    justify-content: center;
+}

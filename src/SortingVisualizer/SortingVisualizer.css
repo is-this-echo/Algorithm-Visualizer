@@ -1,0 +1,11 @@
+.container {
+  position: absolute;
+  left: 150px;
+  top: 70px;
+}
+
+.bars {
+  width: 10px;
+  display: inline-block;
+  margin: 0 1px;
+}
