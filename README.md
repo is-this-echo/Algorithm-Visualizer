@@ -3,6 +3,7 @@
 
 Cool React app to visualize sorting and pathfinding algorithms
 
+Find it hosted here (demo) : https://Devil-Echo.github.io/Algorithm-Visualizer
 
 
 ### How to run :
